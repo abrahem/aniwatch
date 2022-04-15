@@ -1,4 +1,11 @@
 {
   "name": "aniwatch",
-  "displayName": "aniwatch"
+  "displayName": "aniwatch",
+  "icon": "./playstore.png",
+  "version": "1.0.0",
+  "slug": "aniwatch",
+  "ios": {
+    "bundleIdentifier": "com.aniwatch.iq",
+    "buildNumber": "1.0.0"
+  }
 }
